@@ -1,0 +1,10 @@
+{
+    "Future DILFs": {
+        "platform": "ESPN",
+        "scoring": {
+            "Passing TD": 4.0,
+            "Rushing TD": 6.0,
+            "Reception": 1.5
+        }
+    }
+}
